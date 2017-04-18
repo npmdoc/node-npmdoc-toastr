@@ -1,9 +1,14 @@
-# api documentation for  [toastr (v2.1.2)](http://www.toastrjs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-toastr.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-toastr) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-toastr.svg)](https://travis-ci.org/npmdoc/node-npmdoc-toastr)
+# npmdoc-toastr
+
+#### api documentation for  [toastr (v2.1.2)](http://www.toastrjs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-toastr.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-toastr) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-toastr.svg)](https://travis-ci.org/npmdoc/node-npmdoc-toastr)
+
 #### ToastrJS is a JavaScript library for Gnome / Growl type non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.
 
-[![NPM](https://nodei.co/npm/toastr.png?downloads=true)](https://www.npmjs.com/package/toastr)
+[![NPM](https://nodei.co/npm/toastr.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/toastr)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-toastr/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-toastr_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-toastr/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-toastr/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-toastr/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-toastr/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-toastr/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-toastr/build/screenCapture.npmPackageListing.svg)
 
@@ -70,17 +75,14 @@
     "main": "toastr.js",
     "maintainers": [
         {
-            "name": "durango",
-            "email": "me@danieldurante.com"
+            "name": "durango"
         },
         {
-            "name": "timferrell",
-            "email": "timothyferrell+npm@gmail.com"
+            "name": "timferrell"
         }
     ],
     "name": "toastr",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/CodeSeven/toastr.git"
@@ -92,16 +94,6 @@
     "version": "2.1.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module toastr](#apidoc.module.toastr)
-
-
-
-# <a name="apidoc.module.toastr"></a>[module toastr](#apidoc.module.toastr)
 
 
 
